@@ -1,6 +1,6 @@
 # Kyle's things to do in San Fransisco (and places to avoid).
 
-# Things to do
+## Things to do
 - Walk through Golden Gate park. (There are live Buffalo!)
 - Walk/Bike Across Golden Gate Bridge.
 - Drive down the crooked part of Lombard St (or walk, itll go faster)
@@ -17,7 +17,7 @@
 
 
 
-# Things to eat
+## Things to eat
 - Hong Kong Lounge Dim Sum
 - Enjoy a Morning Bun from Tartine
 - Bi-Rite Creamery Ice Cream
@@ -31,21 +31,21 @@
 
 
 
-# Things to Drink
+## Things to Drink
 - Bourbon and Branch (nifty cocktails, no food)
 - Alembic (Great cocktails, small plate food)
 - Comstock
 - Chambers (Great cocktails)
-- Trick Dog (Great Cockstail)
+- Trick Dog (Great cocktails)
 - Get a Mai Tai at the Tonga Room & Hurricane Bar
 
 
-# Things you have to plan way in advance (30+days)
+## Things you have to plan way in advance (30+days)
 - Nopa
 - Alcatraz
 - Dinners on Friday and Saturday.
 
-# Places you shouldnt go unless you absolutely want to.
+## Places you shouldnt go unless you absolutely want to.
 - 16th and mission bart stop
 - Fishermans Wharf.
 - Tenderloin
