@@ -1,4 +1,4 @@
-# Kyle's things to do in San Fransisco (and places to avoid).
+# Kyle's things to do in San Francisco (and places to avoid).
 
 ## Things to do
 - Walk through Golden Gate park. (There are live Buffalo!)
