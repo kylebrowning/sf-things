@@ -13,9 +13,11 @@
 - Union Square
 - Haight Ashbury
 - Exploratorium
-- Alcatraz.
-
-
+- Alcatraz, especially the [night tour](https://www.alcatrazcruises.com/website/tour-comparison.aspx)--get tickets months in advance!
+- Marin Headlands, especially the [Nike Missile site](https://www.nps.gov/goga/nike-missile-site.htm) (see a nuclear missile raise from its bunker!)
+- Cathedral of St Mary of the Assumption (especially the [Sound Meditation](http://www.soundmeditationsf.com/get-tickets) sessions)
+- Japan Town, especially the Kabuki theater and mall (great place to find gifts / souvenirs)
+- Land's End / Sutro Baths (parking is tough on weekends)
 
 ## Things to eat
 - Hong Kong Lounge Dim Sum
@@ -49,3 +51,6 @@
 - 16th and mission bart stop
 - Fishermans Wharf.
 - Tenderloin
+
+## General advice
+- Never understimate the difficulty of having a car in San Francisco. It's almost always easier / cheaper to use Lyft, Muni, bikes, and/or BART to get around within the city than to pay for a rental car and parking. The city is also very pedestrian friendly, walking is usually the best option for trips of less than a mile or so.
