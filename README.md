@@ -4,7 +4,7 @@
 - Walk through Golden Gate park. (There are live Buffalo!)
 - Walk/Bike Across Golden Gate Bridge.
 - Drive down the crooked part of Lombard St (or walk, itll go faster)
-- goto a show the Fillmore
+- Go to a show the Fillmore
 - Ride a cable car
 - Alamo Square park to see the Painted Ladies
 - Mission Dolores Park
@@ -18,6 +18,8 @@
 - Cathedral of St Mary of the Assumption (especially the [Sound Meditation](http://www.soundmeditationsf.com/get-tickets) sessions)
 - Japan Town, especially the Kabuki theater and mall (great place to find gifts / souvenirs)
 - Land's End / Sutro Baths (parking is tough on weekends)
+- Helicopter Ride around the Golden Gate Bridge
+- Visit unique shops in China town
 
 ## Things to eat
 - Hong Kong Lounge Dim Sum
