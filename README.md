@@ -65,7 +65,7 @@
 * [Pizzeria Delfina](http://pizzeriadelfina.com/)
 
 ### Sandwiches
-* [Giordano Bros'] [https://www.yelp.com/biz/giordano-bros-san-francisco-2]
+* [Giordano Bros'](https://www.yelp.com/biz/giordano-bros-san-francisco-2)
 * [Rhea's Cafe](http://www.yelp.com/biz/rheas-cafe-san-francisco)
 * [Ike's Place](http://ilikeikesplace.com/)
 
