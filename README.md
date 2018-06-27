@@ -46,6 +46,7 @@
 * [St. Francis Fountain](http://stfrancisfountainsf.com/)
 * [Radish](http://radishsf.com/)
 * [Zazie](http://www.zaziesf.com/)
+* [Jones](http://620-jones.com)
 
 ### Casual
 
