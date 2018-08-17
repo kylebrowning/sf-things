@@ -98,7 +98,7 @@
 * [Salumeria](http://salumeriasf.com/)
 
 ### Cocktails
-* [Bourbon and Branch](http://bourbonandbranch.com/) (password is `library`)
+* [Bourbon and Branch](http://bourbonandbranch.com/) (password is `books`)
 * [Alembic](http://alembicsf.com)
 * [Chambers](http://chambers-sf.com)
 * [Comstock](https://comstocksaloon.com)
