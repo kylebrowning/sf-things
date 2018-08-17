@@ -78,6 +78,12 @@
 
 ## Bars
 
+### With a view
+* [CityScape](http://www.cityscapesf.com/photos/)
+* [Loews](https://www.loewshotels.com/regency-san-francisco/dining)
+* [The Cliff House](https://cliffhouse.com)
+* [The View](http://www.sfviewlounge.com)
+
 ### Beer (only)
 * [Mikkeller Bar](http://www.mikkellerbar.com/)
 * [Zeitgeist](http://zeitgeistsf.com/)
