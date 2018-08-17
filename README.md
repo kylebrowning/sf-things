@@ -28,7 +28,7 @@
 
 ### Need Reservations
 * [Four + Water](http://www.flourandwater.com/)
-* [Lolina](http://lolindasf.com)
+* [Lolinda](http://lolindasf.com)
 * [Heirloom Cafe](http://heirloom-sf.com/)
 * [Foreign Cinema](http://www.foreigncinema.com/)
 * [Nopa](http://nopasf.com/)
