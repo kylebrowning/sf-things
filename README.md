@@ -2,7 +2,7 @@
 
 ## Sites to see
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco))
-* [Delores Park](http://www.yelp.com/biz/dolores-park-san-francisco)
+* [Dolores Park](http://www.yelp.com/biz/dolores-park-san-francisco)
 * [Golden Gate Park](http://www.golden-gate-park.com/)
 * [Lands End](http://www.parksconservancy.org/visit/park-sites/lands-end.html)
 * [Crissy Field](http://www.parksconservancy.org/visit/park-sites/crissy-field.html)
